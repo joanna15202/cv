@@ -1,0 +1,50 @@
+body {
+  color: #323232;
+  font-family: "Open Sans", sans-serif;
+}
+hr {
+  background-color: lightgrey;
+  border-style: none;
+  height: 1px;
+  width: 60%;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  color: #f08a5d;
+  font-family: "Open Sans", sans-serif;
+  margin-left:20%;
+}
+
+h4 {
+  color: #f08a5d;
+}
+
+table {
+  width:60%; margin-left:20%; margin-right:20%;
+}
+
+.center {
+  width:60%;
+  margin-left:20%;
+  margin-right:20%;
+}
+
+.school {
+  width: 30%;
+}
+
+.left {
+  margin-left:20%;
+  margin-right: 20%;
+}
+
+.contactIcon:hover {
+  margin-left:20%;
+  margin-right: 20%;
+  background-color: lightyellow;
+}
